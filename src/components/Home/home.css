@@ -1,0 +1,17 @@
+
+
+
+.Backgrnd {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(4, 32, 97, .5), rgba(9, 109, 240, 0.5)), url(https://w0.peakpx.com/wallpaper/104/998/HD-wallpaper-workplace-writer-concepts-journalist-workplace-journalism-concepts-typewriter-notebook.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
